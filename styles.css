@@ -1,0 +1,17 @@
+#main-doc {
+	position: relative;
+}
+#navbar {
+	position: absolute;
+	left: 0;
+}
+
+@media screen and(min-width: 1024) {
+	#main-doc {
+		position: relative;
+	}
+	#navbar {
+		position: absolute;
+		left: 0;
+	}
+}
